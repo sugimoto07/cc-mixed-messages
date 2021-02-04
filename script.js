@@ -22,3 +22,4 @@ messages = {
 
 console.log(messages.generateMessage());
 console.log("New Change");
+console.log("New change 2");
