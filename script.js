@@ -21,3 +21,4 @@ messages = {
 }
 
 console.log(messages.generateMessage());
+console.log("New Change");
